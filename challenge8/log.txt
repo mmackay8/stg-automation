@@ -1,0 +1,10 @@
+toyota camry 25230
+toyota corolla le 25586
+nissan skyline 14684
+nissan altima 14666
+ford mustang 24294
+suburban 645
+ford f150 24293
+ferrari 32
+porsche 516
+tesla 337
