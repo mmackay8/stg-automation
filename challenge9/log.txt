@@ -1,0 +1,57 @@
+lotNumberStr : 30149889 <class 'str'>
+ln : 30149889 <class 'int'>
+mkn : TESLA <class 'str'>
+lm : MODEL S <class 'str'>
+lcy : 2016 <class 'int'>
+fv : 5YJSA1E21GF144271 <class 'str'>
+la : 60659.0 <class 'float'>
+rc : 43162.92 <class 'float'>
+obc : A <class 'str'>
+orr : 64065.0 <class 'float'>
+ord : ACTUAL <class 'str'>
+ld : 2016 TESLA MODEL S  <class 'str'>
+yn : MO - ST. LOUIS <class 'str'>
+cuc : USD <class 'str'>
+tz : CST <class 'str'>
+ad : 1578074400000 <class 'int'>
+at : 12:00:00 <class 'str'>
+aan : 0 <class 'int'>
+hb : 9400.0 <class 'float'>
+ss : 5 <class 'int'>
+bndc :  <class 'str'>
+bnp : 0.0 <class 'float'>
+sbf : False <class 'bool'>
+ts : MO <class 'str'>
+stt : SC <class 'str'>
+td : SALVAGE CERTIFICATE OF TITLE <class 'str'>
+tgc : TITLEGROUP_S <class 'str'>
+dd : FRONT END <class 'str'>
+tims : https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX133/60a5fac4-d7ac-4de9-aaf9-0e7466674d15.JPG <class 'str'>
+lic : ['IV', 'CERT-E'] <class 'list'>
+gr :  Z180 <class 'str'>
+dtc : FR <class 'str'>
+adt : E <class 'str'>
+ynumb : 20 <class 'int'>
+phynumb : 20 <class 'int'>
+bf : True <class 'bool'>
+ymin : 90 <class 'int'>
+offFlg : False <class 'bool'>
+htsmn : Y <class 'str'>
+tmtp : AUTOMATIC <class 'str'>
+myb : 0.0 <class 'float'>
+lmc : TESL <class 'str'>
+lcc : CERT-E <class 'str'>
+sdd : UNDERCARRIAGE <class 'str'>
+bstl : HATCHBAC <class 'str'>
+lcd : ENHANCED VEHICLES <class 'str'>
+ft : ELECTRIC <class 'str'>
+hk : YES <class 'str'>
+drv : All wheel drive <class 'str'>
+ess : Pure Sale <class 'str'>
+showSeller : False <class 'bool'>
+sstpflg : False <class 'bool'>
+syn : MO - ST. LOUIS <class 'str'>
+ifs : True <class 'bool'>
+pbf : False <class 'bool'>
+crg : 0.0 <class 'float'>
+brand : COPART <class 'str'>
